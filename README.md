@@ -14,3 +14,5 @@ This innovative movie recommendation system harnesses the power of Python and cu
 🧠 Continuous Learning: Incorporating a feedback loop, the system adapts and refines its recommendations based on user feedback and evolving movie preferences, ensuring continuous improvement.
 
 
+![whole mrs](https://github.com/JayeshMaurya21/Movie-Recommend-System/assets/143533976/1ae948ee-f597-487f-935a-8fae815ef55b)
+![only recommend](https://github.com/JayeshMaurya21/Movie-Recommend-System/assets/143533976/ff19b685-5547-4b97-a50c-666368379efd)
